@@ -7,4 +7,4 @@ Documentação em desenvolvimento
 
 Exemplo:
 
-http://brunoquadrotti.com/csstooltip/#
+http://brunoquadrotti.com/csstooltip/
