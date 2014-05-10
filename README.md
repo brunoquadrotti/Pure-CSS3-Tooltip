@@ -1,4 +1,4 @@
-css-tooltip
+Pure-CSS3-Tooltip
 ===========
 
 Simple tooltip with css
